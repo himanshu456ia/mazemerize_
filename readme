@@ -1,1 +1,9 @@
-Pls dont read
+# Mazemerze
+
+![Maze Game Screenshot](screenshot1.png)
+
+# Description
+
+Maze Game is a simple web-based game developed using Django. In this game, players navigate through a maze, trying to find the exit while avoiding obstacles.
+The game offers an interactive and challenging experience, providing entertainment and fun for users of all ages.
+
