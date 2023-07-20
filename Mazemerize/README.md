@@ -1,5 +1,5 @@
 # Mazemerze(An online maze game) 
-
+![Maze Game screenshot](Mazemerize/Scree1nshot.png)
 # Description
 
 Maze Game is a simple web-based game developed using Django. In this game, players navigate through a maze, within the time limit.
