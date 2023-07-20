@@ -1,2 +1,21 @@
-# Maze-Game
-The Pre fest event for techfest 2k21
+# Mazemerze(An online maze game) 
+
+# Description
+
+Maze Game is a simple web-based game developed using Django. In this game, players navigate through a maze, within the time limit.
+According to the score the leaderboard will be updated.
+
+# Installation
+
+To run the Maze Game locally on your machine, follow these steps:
+
+1. Prerequisites: Make sure you have the following installed on your system:
+Python (version 3.6 or higher)
+Django (version 3.0 or higher)
+
+2. Clone the Repository
+
+3. Setup Virtual Environment 
+
+4. Install Dependencies
+pip install -r requirements.txt
